@@ -1,1 +1,1 @@
-https://boiling-bastion-11127.herokuapp.com/
+This is our web-based final project for Systems Analysis and Design course. You can access the project through [this](https://boiling-bastion-11127.herokuapp.com/) link. This project included drawing use-case scenarios, activity diagrams, and implementation.
